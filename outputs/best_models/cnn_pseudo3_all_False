@@ -1,0 +1,19 @@
+cnn
+10 runs
+10 epochs each
+batch size32
+features [0, 0, 1, 1]
+
+
+Test Results
+              precision    recall  f1-score   support
+
+           1     0.7116    0.7203    0.7159       572
+           2     0.7068    0.7029    0.7048       902
+           3     0.8415    0.8403    0.8409      1497
+
+   micro avg     0.7755    0.7755    0.7755      2971
+   macro avg     0.7533    0.7545    0.7539      2971
+weighted avg     0.7756    0.7755    0.7755      2971
+Micro Averaged:
+P:0.7096	R:0.7087	F:0.7092

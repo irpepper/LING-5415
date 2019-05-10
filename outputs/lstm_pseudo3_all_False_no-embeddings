@@ -1,0 +1,5 @@
+lstm
+10 runs
+10 epochs each
+batch size32
+features [0, 0, 1, 0]

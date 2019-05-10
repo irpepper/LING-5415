@@ -1,0 +1,15 @@
+
+
+
+Test Results
+              precision    recall  f1-score   support
+
+           1     0.7429    0.7273    0.7350       572
+           2     0.7126    0.7228    0.7177       902
+           3     0.8630    0.8624    0.8627      1497
+
+   micro avg     0.7940    0.7940    0.7940      2971
+   macro avg     0.7728    0.7708    0.7718      2971
+weighted avg     0.7942    0.7940    0.7941      2971
+Micro Averaged:
+P:0.7246	R:0.7241	F:0.7243

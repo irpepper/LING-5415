@@ -1,0 +1,19 @@
+lstm
+10 runs
+10 epochs each
+batch size32
+features [1, 0, 1, 0]
+
+
+Test Results
+              precision    recall  f1-score   support
+
+           1     0.2825    0.5997    0.3841       572
+           2     0.3932    0.2938    0.3363       902
+           3     0.5586    0.4041    0.4690      1497
+
+   micro avg     0.4083    0.4083    0.4083      2971
+   macro avg     0.4114    0.4325    0.3965      2971
+weighted avg     0.4552    0.4083    0.4124      2971
+Micro Averaged:
+P:0.4125	R:0.3220	F:0.3617
